@@ -1,3 +1,5 @@
+# The code is written as driver code. Can you convert it to RSPEC?
+
 require_relative 'armstrong_numbers'
 
 puts find_armstrong_numbers([0]) == [0]
