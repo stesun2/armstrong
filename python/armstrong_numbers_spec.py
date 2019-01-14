@@ -1,4 +1,4 @@
-# The code is written as driver code. Can you convert it to unittest?
+# The code is written as driver code. Can you convert it to Mamba?
 from armstrong_numbers import find_armstrong_numbers
 
 print(find_armstrong_numbers([0]) == [0]) 
