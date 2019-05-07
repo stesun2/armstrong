@@ -1,3 +1,5 @@
+// Can you translate this driver code to unit tests?
+
 var arm = require("./armstrongNumbers");
 var shallowEqualArrays = require('shallow-equal/arrays');
 
