@@ -1,5 +1,4 @@
 # Armstrong Numbers
-# hello i am trolling everyone. good luck working through the merge conflicts
 
 An Armstrong Number is an N-digit number that is equal to the sum of the Nth powers of its digits.
 
